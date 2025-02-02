@@ -18,10 +18,7 @@ This project predicts customer churn for a telecom company using machine learnin
    git clone https://github.com/your-username/Customer-Churn-Prediction.git
 
 
-2.Install dependencies:
+2.Install dependencies and run:
   ```bash
     pip install -r requirements.txt
-
-
-  ```bash
     jupyter notebook Customer_Churn_Prediction.ipynb
